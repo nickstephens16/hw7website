@@ -1,4 +1,4 @@
 # hw7website
 ---
-permalink: /index.html
+permalink: index.html
 ---
